@@ -1,0 +1,20 @@
+{
+    "Author": "Samhita Kulkarni[MSFT]",
+    "ContentSize": 2119,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/update-iis-connection-string-script-for-asr-recovery-plan/master/IIS-Update-ConnectionString.ps1",
+    "DownloadCount": 571,
+    "Id": "Update-IIS-connection-2579aadc",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 293,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-3-24T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Gets all websites on given IIS server and updates their connectionString in web.config to point to new Microsoft SQL server. This script should be used in conjuction with IISDataTierUpdate.ps1 runbook.\u00a0Online peer support\u00a0For online peer support, join The Official Scripting",
+    "Title": "Update IIS connection string script for ASR Recovery Plan",
+    "UpdatedDate": "2017-3-24T00:00:00",
+    "Url": "https://github.com/azureautomation/update-iis-connection-string-script-for-asr-recovery-plan",
+    "UserTags": "IIS, Azure Site Recovery"
+}
